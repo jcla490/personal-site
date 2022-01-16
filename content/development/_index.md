@@ -1,7 +1,6 @@
 ---
 title: "Development"
 description: "Development"
-slug: "development"
 ---
 
 {{< lead >}}

@@ -2,14 +2,13 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-theme = "congo"
-
-# baseURL = "https://your_domain.com/"
+baseURL = "https://deuri26zeqz9.cloudfront.net/"
 languageCode = "en"
 defaultContentLanguage = "en"
+uglyurls = true
 
 title = "Josh Clark"
-# copyright = "Copy, _right?_ :thinking_face:"
+theme = "congo"
 
 enableEmoji = true
 enableRobotsTXT = true
@@ -19,7 +18,6 @@ summaryLength = 0
 [author]
 name = "Josh Clark"
 image = "img/photo.jpeg"
-bio = ""
 links = [
   { github = "https://github.com/jcla490" },
   { instagram = "https://instagram.com/jmc_ff" },
@@ -27,6 +25,6 @@ links = [
   # { twitter = "https://twitter.com/wafiremet" },
 ]
 
-[taxonomies]
-tag = "tags"
-category = "categories"
+[permalinks]
+posts = "/:year/:month/:slug/"
+page = "/:slug/"

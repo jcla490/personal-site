@@ -1,7 +1,6 @@
 ---
 title: "Spirits"
 description: "Spirits"
-slug: "spirits"
 ---
 
 {{< lead >}}
@@ -14,18 +13,18 @@ I use [Jay West](https://whiskeyraiders.com/about-t8ke/)'s scale to review spiri
 
 <small>
 
-| Score | Text Score | Description                    |
-|----|------------|-----------------------------------|
-| 1  | Disgusting | So bad I poured it out            |
-| 2  | Poor       | I wouldn't consume by choice      |
-| 3  | Bad        | Multiple flaws                    |
-| 4  | Sub-par    | Not bad, but lots I'd rather have |
-| 5  | Good       | Good, just fine                   |
-| 6  | Very Good  | A cut above                       |
-| 7  | Great      | Well above average                |
-| 8  | Excellent  | Really quite exceptional          |
-| 9  | Incredible | An all time favorite              |
-| 10 | Perfect    | Perfect                           |
+| Score | Text Score | Description                       |
+| ----- | ---------- | --------------------------------- |
+| 1     | Disgusting | So bad I poured it out            |
+| 2     | Poor       | I wouldn't consume by choice      |
+| 3     | Bad        | Multiple flaws                    |
+| 4     | Sub-par    | Not bad, but lots I'd rather have |
+| 5     | Good       | Good, just fine                   |
+| 6     | Very Good  | A cut above                       |
+| 7     | Great      | Well above average                |
+| 8     | Excellent  | Really quite exceptional          |
+| 9     | Incredible | An all time favorite              |
+| 10    | Perfect    | Perfect                           |
 
 </small>
 

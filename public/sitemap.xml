@@ -10,7 +10,41 @@
   
     
       <url>
-            <loc>/spirits/armagnac/grosperrin-1996-afish/</loc>
+            <loc>https://deuri26zeqz9.cloudfront.net/spirits/grosperrin-1996-afish.html</loc>
+            <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://deuri26zeqz9.cloudfront.net/chocolate.html</loc>
+            <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://deuri26zeqz9.cloudfront.net/development.html</loc>
+            <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://deuri26zeqz9.cloudfront.net/</loc>
+            <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://deuri26zeqz9.cloudfront.net/spirits.html</loc>
             <lastmod>2021-01-14T00:00:00+00:00</lastmod>
           </url>
     
@@ -21,22 +55,16 @@
   
     
       <url>
-            <loc>/</loc>
+            <loc>https://deuri26zeqz9.cloudfront.net/chocolate/test.html</loc>
             <lastmod>2021-01-14T00:00:00+00:00</lastmod>
           </url>
-    
-  
     
   
     
       <url>
-            <loc>/spirits/</loc>
+            <loc>https://deuri26zeqz9.cloudfront.net/development/test.html</loc>
             <lastmod>2021-01-14T00:00:00+00:00</lastmod>
           </url>
-    
-  
-    
-  
     
   
     
@@ -45,23 +73,11 @@
   
     
       <url>
-            <loc>/spirits/cognac/ttgv-jlp-95/</loc>
+            <loc>https://deuri26zeqz9.cloudfront.net/spirits/ttgv-jlp-95.html</loc>
             <lastmod>2021-01-13T00:00:00+00:00</lastmod>
           </url>
     
   
-    
-  
-    
-      <url>
-            <loc>/chocolate/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>/development/</loc>
-          </url>
     
   
 </urlset>

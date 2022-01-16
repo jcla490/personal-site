@@ -1,7 +1,6 @@
 ---
 title: "Chocolate making"
 description: "Chocolate making"
-slug: "chocolate"
 ---
 
 {{< lead >}}

@@ -1,15 +1,15 @@
 {
-  "master": {
+  "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-personalsite-master-110249-authRole",
-      "UnauthRoleArn": "arn:aws:iam::651920841244:role/amplify-personalsite-master-110249-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::651920841244:role/amplify-personalsite-master-110249-authRole",
-      "Region": "us-east-2",
-      "DeploymentBucketName": "amplify-personalsite-master-110249-deployment",
-      "UnauthRoleName": "amplify-personalsite-master-110249-unauthRole",
-      "StackName": "amplify-personalsite-master-110249",
-      "StackId": "arn:aws:cloudformation:us-east-2:651920841244:stack/amplify-personalsite-master-110249/9761be90-761c-11ec-ab40-064ca93270ce",
-      "AmplifyAppId": "doqdzgqyu29qf"
+      "AuthRoleName": "amplify-joshclarksite-dev-212026-authRole",
+      "UnauthRoleArn": "arn:aws:iam::651920841244:role/amplify-joshclarksite-dev-212026-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::651920841244:role/amplify-joshclarksite-dev-212026-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-joshclarksite-dev-212026-deployment",
+      "UnauthRoleName": "amplify-joshclarksite-dev-212026-unauthRole",
+      "StackName": "amplify-joshclarksite-dev-212026",
+      "StackId": "arn:aws:cloudformation:us-east-1:651920841244:stack/amplify-joshclarksite-dev-212026/df4c6d80-7672-11ec-945e-0ed2adac626d",
+      "AmplifyAppId": "d3ujnnenmtbkov"
     }
   }
 }
