@@ -13,7 +13,7 @@ categories:
 ---
 
 {{< lead >}}
-8/10. An excellent foray into armagnac by cognac négociant Grosperrin.
+8/10. An excellent armagnac with layers of flavor.
 {{< /lead >}}
 
 ## Background
