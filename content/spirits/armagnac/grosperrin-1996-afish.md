@@ -1,6 +1,6 @@
 ---
 title: "Armagnac | Grosperrin Lot 1996, Aficionados selection"
-date: 2021-01-14
+date: 2022-01-14
 draft: false
 tags: 
 - armagnac

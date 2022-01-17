@@ -1,6 +1,6 @@
 ---
 title: "Bourbon | Wild Turkey Master's Keep One, toasted oak finish"
-date: 2021-01-16
+date: 2022-01-16
 draft: false
 tags: 
 - bourbon
