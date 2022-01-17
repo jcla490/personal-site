@@ -4,7 +4,7 @@ description: "Spirits"
 ---
 
 {{< lead >}}
-My reviews of various bourbons, armagnacs, and cognacs
+Reviews of various whiskies and brandies
 {{< /lead >}}
 
 ## Score Methodology
