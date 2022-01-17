@@ -13,7 +13,7 @@ categories:
 ---
 
 {{< lead >}}
-8/10. An excellent armagnac with layers of flavor.
+8/10. An excellent, very unique armagnac with layers of flavor.
 {{< /lead >}}
 
 ## Background
@@ -26,7 +26,7 @@ The vineyard/distiller of this particular bottling was never disclosed but we do
 ## Review
 ---
 ### Nose :nose:
-Incredibly layered, complex. Dark chocolate covered almonds, fig, black cherry, plum, ripe berries, orange peel, nutmeg, etc., etc. The nose here is the most unique of the armagnacs I've tasted to date. I've seen others mention an overwhelming presence of sulfur here and I suppose taken as a whole one could make that argument. If you sit and study for a bit a ton of different smells come out - try letting this sit for 10 minutes or so. 
+Incredibly layered, complex. Dark chocolate covered almonds, fig, black cherry, plum, ripe berries, orange peel, nutmeg, etc., etc. The nose here is the most unique of the armagnacs I've tasted to date. I've seen others mention an overwhelming presence of sulfur here and I suppose taken as a whole one could make that argument. If you sit and study for a bit a ton of different smells come out - try letting this rest for 10 minutes or so. 
 
 ### Taste :tongue:
 Wonderfully rich with an excellent balance of alcohol and flavor. Grape, plum, strawberry are the primary fruits with hints of dark chocolate, caramel, vanilla, and walnut. Long finish with ample warmth and a mildly astringent aftertaste. 

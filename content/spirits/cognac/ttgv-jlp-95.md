@@ -31,7 +31,7 @@ Bright lemon and vanilla, black pepper, apple pie. Unoffensive and unintrusive.
 Full mouthfeel of lemon zest, pepper, and vanilla. Moderate finish with a generally pleasant aftertaste and warmth.
 
 ### Overall :clipboard:
-6/10. Although this cognac is enjoyable in every sense, it's a bit one dimensional, carrying the same notes from the nose to the palate and into the finish. I had hoped the proof would have yielded something with more discernible complexity. Still, you could drink this every day with great satisfaction 
+6/10. Although this cognac is enjoyable in every sense, it's a bit one dimensional, carrying the same notes from the nose to the palate and into the finish. I had hoped the proof would have yielded something with more discernible complexity. Still, you could drink this every day with great satisfaction. 
 
 ### Jazz Pairing :trumpet:
 <iframe src="https://open.spotify.com/embed/track/4Ti7XXjHWi4P3ygJ1GAZMn?utm_source=generator&theme=0" width="100%" height="80" frameBorder="" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
