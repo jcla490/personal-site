@@ -13,6 +13,7 @@ categories:
 ---
 
 {{< lead >}}
+5/10. Fine, but many other Encantada expressions I enjoy more.  
 {{< /lead >}}
 
 ## Background
@@ -27,10 +28,10 @@ Anyway, I purchased this bottle for the birth year vintage (1986) and opportunit
 Honey roasted figs, dried apricots, oakwood, vanilla, smoke, and sherry comprise a heavy rancio nose. :ok_hand: 
 
 ### Taste :tongue:
-Viscous mouthfeel with a long, warm, and moderately astringent aftertaste. The primarily flavors are leather, vanilla, fig, and walnut while the aftertaste briefly morphs into something a bit rubbery and similar to black liquorice. It's not unpleasant, rather it reminds me of a little of rum. :man_shrugging:
+Viscous mouthfeel with a long, warm, and moderately astringent aftertaste. The primary flavors are leather, vanilla, fig, and walnut while the aftertaste briefly morphs into something a bit rubbery and similar to black liquorice. It's not unpleasant, rather it reminds me of a little of rum. :man_shrugging:
 
 ### Overall :clipboard:
-5/10. I'm like it, just maybe not more than I would any of the dozen or so other L'Encantada domains currently out there. The nose was wonderful, but I wasn't particularly fond of the finish. Again, it's not unpleasant, just not my cup of armagnac. For someone else, this could easily be 7/10 rated. 
+5/10. I like it, just maybe not more than I would any of the dozen or so other L'Encantada domains currently out there. The nose was wonderful, but I wasn't particularly fond of the finish. Again, it's not a deal-breaker, just not my cup of armagnac. For someone else, this could easily be 7/10 rated. 
 
 ### Jazz Pairing :trumpet:
 <iframe src="https://open.spotify.com/embed/track/3WYTn5VlkWkdacjGRsGvSv?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
