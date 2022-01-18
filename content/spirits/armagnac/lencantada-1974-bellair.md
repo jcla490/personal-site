@@ -24,7 +24,7 @@ If you're not familiar with L'Encantada, it's time. Via esteemed importer [PM Sp
 
 So here we are in 2022. More and more whiskey clubs and U.S. stores are selecting their own L'Encantada casks and I couldn't be happier with the increase in availability. However, the downside is that prices have seen considerable increases as reviews - especially for Lous Pibous - have started to come in and stores are seeing greater demand. Good news is that select overseas stores like FineDrams usually have a vintage L'Encantada available if you're willing to pay the shipping. 
 
-Anywayyyy, this 1974 Bellair. L'Encantada is a négociant buying up armagnacs from small producers across the Armagnac region and Domaine de Bellair is one such estate located near the river Douze. Bellair grows Ugni Blanc and Baco grapes and is one of the few producers that maintains an onsite still (others generally rent time on a traveling still). The cellars at Bellair are considered humid, a characteristic known in brandy that generally yields lower proof and a more mellow, round spirit. This expression was taken from its cask in June 2021 at 45.3%.  
+Anywayyyy, this 1974 Bellair. L'Encantada is a négociant buying up armagnacs from small producers across the Armagnac region and Domaine de Bellair is one such estate located near the river Douze. Bellair grows Ugni Blanc and Baco grapes and is one of the few producers that maintains an onsite still (others generally rent time on a traveling still). The cellars at Bellair are considered humid, a characteristic known in brandy that generally yields lower proof and a more mellow, round spirit. This expression was taken from its cask (#12L) in June 2021 at 45.3%.  
 
 ## Review
 ---
