@@ -1,5 +1,5 @@
 ---
-title: "Cognac | Jean-Luc Pasquet Cask 95, Through the Grapevine"
+title: "🇫🇷 🍇 Cognac | Jean-Luc Pasquet Cask 95, Through the Grapevine"
 date: 2022-01-13
 draft: false
 tags: 

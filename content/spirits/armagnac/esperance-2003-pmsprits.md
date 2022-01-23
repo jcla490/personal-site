@@ -1,5 +1,5 @@
 ---
-title: "Armagnac | PM Spirits, Domaine d'Espérance, 2003"
+title: "🇫🇷 🍇 Armagnac | PM Spirits, Domaine d'Espérance, 2003"
 date: 2022-01-18
 draft: false
 tags: 

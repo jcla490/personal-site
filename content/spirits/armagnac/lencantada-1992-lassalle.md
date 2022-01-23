@@ -1,11 +1,11 @@
 ---
-title: "🇫🇷 🍇 Armagnac | L' Encantada, Domaine de Artigaux, 1986"
-date: 2022-01-17
-draft: false
+title: "🇫🇷 🍇 Armagnac | L' Encantada, Domaine Lassalle, 1992, Beastmasters selection"
+date: 2022-01-22
+draft: true
 tags: 
 - armagnac
 - l'encantada
-- artigaux
+- lassalle
 - review
 - spirits
 categories: 
@@ -13,12 +13,11 @@ categories:
 ---
 
 {{< lead >}}
-5/10. Fine, but many other Encantada expressions I enjoy more.  
 {{< /lead >}}
 
 ## Background
 ---
-I think I've provided enough background on L'Encantada [here](https://www.joshmclark.com/spirits/armagnac/lencantada-1974-bellair.html) so I'll be brief and only discuss the domain...or will I? Actually, little is known about Artigaux. L'Encantada doesn't list it among their primary domains and there isn't really any research or reviews out there. This is a relatively new domain for L'Encantada so hopefully we'll see more info soon. In the meantime, I've pinged some people with knowledge much beyond my own to see if they have any clue. I'll update this space if I learn more. 
+Background on L'Encantada [here](https://www.joshmclark.com/spirits/armagnac/lencantada-1974-bellair.html). 
 
 Anyway, I purchased this bottle for the birth year vintage (1986) and opportunity to try a new domain. Cost was $117 (+ international shipping) via [FineDrams](https://www.finedrams.com/). Selected from cask #16 at 44.1% in June 2021. Oh, I guess the one thing we do know about the distiller is that they stored the casks in humid cellars. :thumbs_up: 
 

@@ -1,5 +1,5 @@
 ---
-title: "Bourbon | Wild Turkey Master's Keep One, toasted oak finish"
+title: "🇺🇸 🌽 Bourbon | Wild Turkey Master's Keep One, toasted oak finish"
 date: 2022-01-16
 draft: false
 tags: 

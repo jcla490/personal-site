@@ -1,5 +1,5 @@
 ---
-title: "Armagnac | L' Encantada, Domaine de Bellair, 1974"
+title: "🇫🇷 🍇 Armagnac | L' Encantada, Domaine de Bellair, 1974"
 date: 2022-01-17
 draft: false
 tags: 

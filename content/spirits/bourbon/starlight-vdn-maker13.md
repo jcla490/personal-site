@@ -1,5 +1,5 @@
 ---
-title: "Bourbon | Starlight, VDN barrel finish, Maker13 selection"
+title: "🇺🇸 🌽 Bourbon | Starlight, VDN barrel finish, Maker13 selection"
 date: 2022-01-16
 draft: false
 tags: 
