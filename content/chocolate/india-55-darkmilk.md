@@ -1,7 +1,7 @@
 ---
 title: "🍫 🥛 Dark Milk | India Anamalai 55%"
 date: 2022-01-23
-draft: true
+draft: false
 tags: 
 - dark chocolate
 - milk chocolate
@@ -41,3 +41,10 @@ The projected refining time is 24-36 hours to achieve consistent sub-20μm parti
 
 
 ## Results
+
+The total time in the refiner was about 36 hours with an additional 10 hours spent with the rollers disengaged for conching. The loss ratio (amount lost to water evaporation and/or residual left in the refiner) was 11% on the nose - one of my lowest yet. The batch ultimately yield 39 bars at roughly 53 grams each. 
+
+I'm writing this two days after moulding and the bar has settled up quite well. The smell is sweet and carmel-like while the color is light and immediately indicative of a milk chocolate. The taste is creamy and rich, full of caramel and brief acidity most comparable to raspberry. The finish is a quick flash of milk with an aftertaste of mouth-coating caramel. It's an overall decadent bar that might even be too rich...I can't finish a whole bar in one sitting. 
+
+Overall, I'm pleased with this bar and I feel the addition of milk really helped knock down the acidity in this bean. I am not so pleased with the feel of the bar however -  because of the high milk and cocoa butter content it really doesn't hold up to warm hands as well as a dark bar. I'm not too certain what could be done about that (if anything) but will keep it in mind if I decide to do another milk bar!
+
