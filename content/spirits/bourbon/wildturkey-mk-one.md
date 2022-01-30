@@ -13,6 +13,7 @@ categories:
 ---
 
 {{< lead >}}
+5/10. A fine bourbon with an atrocious price.
 {{< /lead >}}
 
 ## Background

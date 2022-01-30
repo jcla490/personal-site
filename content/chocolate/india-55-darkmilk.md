@@ -7,7 +7,6 @@ tags:
 - milk chocolate
 - india
 - anamalai
-- 50-59%
 categories: 
 - chocolate
 ---
