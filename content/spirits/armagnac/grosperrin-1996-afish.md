@@ -1,15 +1,13 @@
 ---
-title: "🇫🇷 🍇 Armagnac | Grosperrin Lot 1996, Aficionados selection"
+title: "Grosperrin Lot 1996, Aficionados selection"
 date: 2022-01-14
 draft: false
 tags: 
-- armagnac
-- grosperrin
-- aficionados
-- review
-- spirits
-categories: 
-- armagnac
+- Rating 8/10
+- 🇫🇷 France
+- 🍇 Armagnac
+- Grosperrin
+- Aficionados
 ---
 
 {{< lead >}}

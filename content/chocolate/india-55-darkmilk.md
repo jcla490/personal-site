@@ -1,14 +1,12 @@
 ---
-title: "🍫 🥛 Dark Milk | India Anamalai 55%"
+title: "Dark Milk | India Anamalai 55%"
 date: 2022-01-23
 draft: false
 tags: 
-- dark chocolate
-- milk chocolate
-- india
-- anamalai
-categories: 
-- chocolate
+- 🍫🍫 Dark Chocolate
+- 🍫🥛 Milk Chocolate
+- 🇮🇳 India
+- Anamalai Estate
 ---
 
 {{< lead >}}

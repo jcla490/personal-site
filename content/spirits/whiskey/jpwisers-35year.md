@@ -1,15 +1,12 @@
 ---
-title: "🇨🇦 🌽 Whiskey | JP Wiser's 35 Year, 2018"
+title: "JP Wiser's 35 Year, 2018"
 date: 2022-02-01
 draft: false
 tags: 
-- whiskey
-- canadian
-- hiram walker 
-- review
-- spirits
-categories: 
-- whiskey
+- Rating 5/10
+- 🇨🇦 Canada
+- 🌽 Canadian Whiskey
+- Corby/Hiram Walker
 ---
 
 {{< lead >}}

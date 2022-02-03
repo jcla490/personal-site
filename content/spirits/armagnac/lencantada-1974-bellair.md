@@ -1,15 +1,13 @@
 ---
-title: "🇫🇷 🍇 Armagnac | L' Encantada, Domaine de Bellair, 1974"
+title: "L' Encantada, Domaine de Bellair, 1974"
 date: 2022-01-17
 draft: false
 tags: 
-- armagnac
-- l'encantada
-- bellair
-- review
-- spirits
-categories: 
-- armagnac
+- Rating 8/10
+- 🇫🇷 France
+- 🍇 Armagnac
+- L'Encantada
+- Domaine de Bellair
 ---
 
 {{< lead >}}

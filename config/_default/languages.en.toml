@@ -1,0 +1,18 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+dateFormat = "2 January 2006"
+title = "Josh Clark"
+
+[author]
+name = "Josh Clark"
+image = "/img/photo.jpeg"
+headline = ""
+links = [
+  { github = "https://github.com/jcla490" },
+  { instagram = "https://instagram.com/jmc_ff" },
+  { linkedin = "https://linkedin.com/in/joshclark754" },
+]

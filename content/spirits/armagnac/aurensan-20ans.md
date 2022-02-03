@@ -1,14 +1,12 @@
 ---
-title: "🇫🇷 🍇 Armagnac | Domaine D'Aurensan, 20 years"
+title: "Domaine D'Aurensan 20 years"
 date: 2022-01-28
 draft: false
 tags: 
-- armagnac
-- aurensan
-- review
-- spirits
-categories: 
-- armagnac
+- Rating 8/10
+- 🇫🇷 France
+- 🍇 Armagnac
+- Domaine D'Aurensan
 ---
 
 {{< lead >}}

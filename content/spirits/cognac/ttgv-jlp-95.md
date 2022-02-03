@@ -1,14 +1,13 @@
 ---
-title: "🇫🇷 🍇 Cognac | Jean-Luc Pasquet Cask 95, Through the Grapevine"
+title: "Jean-Luc Pasquet Cask 95, Through the Grapevine"
 date: 2022-01-13
 draft: false
 tags: 
-- cognac
-- pasquet
-- review
-- spirits
-categories: 
-- cognac
+- Rating 6/10
+- 🇫🇷 France
+- 🍇 Cognac
+- Jean-Luc Pasquet
+- Through the Grapevine
 ---
 
 {{< lead >}}

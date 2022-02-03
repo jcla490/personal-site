@@ -1,15 +1,13 @@
 ---
-title: "🇫🇷 🍇 Armagnac | PM Spirits, Domaine d'Espérance, 2003"
+title: "PM Spirits, Domaine d'Espérance, 2003"
 date: 2022-01-18
 draft: false
 tags: 
-- armagnac
-- pm spirits
-- esperance
-- review
-- spirits
-categories: 
-- armagnac
+- Rating 6/10
+- 🇫🇷 France
+- 🍇 Armagnac
+- PM Spirits
+- Domaine d'Espérance
 ---
 
 {{< lead >}}

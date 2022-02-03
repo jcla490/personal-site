@@ -1,15 +1,12 @@
 ---
-title: "🇺🇸 🌽 Bourbon | Starlight, VDN barrel finish, Maker13 selection"
+title: "Starlight VDN barrel finish, Maker13 selection"
 date: 2022-01-16
 draft: false
 tags: 
-- bourbon
-- starlight
-- vdn
-- review
-- spirits
-categories: 
-- bourbon
+- Rating 5/10
+- 🇺🇸 USA
+- 🌽 Bourbon
+- Starlight
 ---
 
 {{< lead >}}

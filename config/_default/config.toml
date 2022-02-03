@@ -1,30 +1,10 @@
-# -- Site Configuration --
-# Refer to the theme docs for more details about each of these parameters.
-# https://jpanther.github.io/congo/docs/getting-started/
-
-baseURL = "https://www.joshmclark.com/"
-languageCode = "en"
-defaultContentLanguage = "en"
-uglyurls = true
-
-title = "Josh Clark"
 theme = "congo"
-
-enableEmoji = true
+baseURL = "https://www.joshmclark.com/"
+defaultContentLanguage = "en"
 enableRobotsTXT = true
+uglyurls = true
+paginate = '5'
+summaryLength = '0'
 
-summaryLength = 0
-
-[author]
-name = "Josh Clark"
-image = "img/photo.jpeg"
-links = [
-  { github = "https://github.com/jcla490" },
-  { instagram = "https://instagram.com/jmc_ff" },
-  { linkedin = "https://linkedin.com/in/joshclark754" },
-  # { twitter = "https://twitter.com/wafiremet" },
-]
-
-[permalinks]
-posts = "/:year/:month/:slug/"
-page = "/:slug/"
+[outputs]
+home = ["HTML", "RSS", "JSON"]

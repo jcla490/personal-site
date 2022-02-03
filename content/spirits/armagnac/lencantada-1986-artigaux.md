@@ -1,15 +1,13 @@
 ---
-title: "🇫🇷 🍇 Armagnac | L' Encantada, Domaine de Artigaux, 1986"
+title: "L' Encantada, Domaine de Artigaux, 1986"
 date: 2022-01-17
 draft: false
 tags: 
-- armagnac
-- l'encantada
-- artigaux
-- review
-- spirits
-categories: 
-- armagnac
+- Rating 5/10
+- 🇫🇷 France
+- 🍇 Armagnac
+- L'Encantada
+- Domaine de Artigaux
 ---
 
 {{< lead >}}

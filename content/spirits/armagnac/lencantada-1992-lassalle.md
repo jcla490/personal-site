@@ -1,15 +1,13 @@
 ---
-title: "🇫🇷 🍇 Armagnac | L' Encantada, Domaine Lassalle, 1992, Beastmasters selection"
+title: "L' Encantada, Domaine Lassalle, 1992, Beastmasters selection"
 date: 2022-01-22
 draft: true
 tags: 
-- armagnac
-- l'encantada
-- lassalle
-- review
-- spirits
-categories: 
-- armagnac
+- Rating 
+- 🇫🇷 France
+- 🍇 Armagnac
+- L'Encantada
+- Domaine Lassalle
 ---
 
 {{< lead >}}

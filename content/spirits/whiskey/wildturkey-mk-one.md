@@ -1,15 +1,12 @@
 ---
-title: "🇺🇸 🌽 Bourbon | Wild Turkey Master's Keep One, toasted oak finish"
+title: "Wild Turkey Master's Keep One, toasted oak finish"
 date: 2022-01-16
 draft: false
 tags: 
-- bourbon
-- wild turkey
-- toasted oak
-- review
-- spirits
-categories: 
-- bourbon
+- Rating 5/10
+- 🇺🇸 USA
+- 🌽 Bourbon
+- Wild Turkey
 ---
 
 {{< lead >}}
